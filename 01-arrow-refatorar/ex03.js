@@ -39,10 +39,13 @@ itens.forEach(function (item) {
 // Após:
 item.forEach((item) => console.log(item));
 
-// Item 03. Toda função declarada no escopo global possui o objeto `window` como valor do `this`. Por que acontece isso?
-/**
- *
- */
+/*
+
+Item 03. Toda função declarada no escopo global possui o objeto `window` como valor do `this`. Por que acontece isso?
+
+Esse objeto window representa o nó inicial da raiz(root) do ambiente do navegador, permitindo total acesso e manipulação por meio desse escopo global.
+
+*/
 
 // Item 04. Antes:
 
