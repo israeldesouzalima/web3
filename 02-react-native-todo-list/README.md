@@ -1,8 +1,12 @@
-# To-Do List
+# Versões
+
+- vTodoList
+
+## To-Do List
 
 Esta aplicação é uma página única (SPA) de lista de tarefas feita em React.
 
-## Funcionalidades
+### Funcionalidades
 
 - **Adicionar tarefa:** Digite uma tarefa e clique em "Adicionar" para incluí-la na lista.
 - **Marcar como concluída:** Clique no texto da tarefa para alternar entre concluída e pendente (riscando o texto).
@@ -11,13 +15,13 @@ Esta aplicação é uma página única (SPA) de lista de tarefas feita em React.
 - **Interface responsiva e moderna:** Layout centralizado, com sombra e bordas arredondadas.
 - **Mensagem de lista vazia:** Exibe "Nenhuma tarefa adicionada" quando não há tarefas.
 
-## Como executar
+### Como executar
 
 1. Instale as dependências com `npm install`.
 2. Inicie o projeto com `npm start`.
 3. Acesse no navegador o endereço indicado pelo terminal.
 
-## Estrutura
+### Estrutura
 
 - `App.js`: Componente principal da aplicação.
 - `assets/`: Imagens e ícones.
